@@ -38,8 +38,8 @@
     "dependencies": {
         "@typerpc/config": "^0.2.9",
         "@typerpc/plugin": "^0.2.9",
-        "live-plugin-manager": "^0.15.1",
-        "ts-morph": "^8.1.0"
+        "live-plugin-manager": "^0.17.1",
+        "ts-morph": "^16.0.0"
     },
     "publishConfig": {
         "access": "public"

@@ -35,10 +35,10 @@
         "url": "https://github.com/typerpc/typerpc/issues"
     },
     "dependencies": {
-        "faker": "^5.1.0"
+        "faker": "^6.6.6"
     },
     "devDependencies": {
-        "@types/faker": "^4.1.12"
+        "@types/faker": "^6.6.9"
     },
     "gitHead": "37a00cb44c8260c7984837aeb43f8c193ed34e87"
 }

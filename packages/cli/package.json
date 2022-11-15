@@ -48,28 +48,28 @@
         "url": "https://github.com/typerpc/typerpc/issues"
     },
     "devDependencies": {
-        "@types/debug": "^4.1.5",
-        "@types/figlet": "^1.2.0",
-        "@types/fs-extra": "^9.0.1",
-        "@types/yargs": "^15.0.5",
-        "pkg": "^4.4.9"
+        "@types/debug": "^4.1.7",
+        "@types/figlet": "^1.5.5",
+        "@types/fs-extra": "^9.0.13",
+        "@types/yargs": "^17.0.13",
+        "pkg": "^5.8.0"
     },
     "dependencies": {
         "@typerpc/config": "^0.2.9",
         "@typerpc/plugin": "^0.2.9",
         "@typerpc/plugin-manager": "^0.2.9",
         "@typerpc/schema": "^0.2.9",
-        "@types/prettyjson": "^0.0.29",
-        "chalk": "^4.1.0",
-        "debug": "^4.1.1",
-        "figlet": "^1.5.0",
-        "fs-extra": "^9.0.1",
-        "ora": "^5.1.0",
-        "prettyjson": "^1.2.1",
-        "ts-morph": "^8.1.0",
-        "tslog": "^2.8.0",
+        "@types/prettyjson": "^0.0.30",
+        "chalk": "^5.1.2",
+        "debug": "^4.3.4",
+        "figlet": "^1.5.2",
+        "fs-extra": "^10.1.0",
+        "ora": "^6.1.2",
+        "prettyjson": "^1.2.5",
+        "ts-morph": "^16.0.0",
+        "tslog": "^4.0.2",
         "yargonaut": "^1.1.4",
-        "yargs": "^16.0.3"
+        "yargs": "^17.6.2"
     },
     "pkg": {
         "assets": "../../node_modules/figlet/fonts/Standard.flf"
